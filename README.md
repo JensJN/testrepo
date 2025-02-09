@@ -1,2 +1,1 @@
-# testrepo
-dummy for testing
+dummy repo for testing
